@@ -24,10 +24,6 @@ Eventify adalah website event kampus berbasis PHP & MySQL yang memudahkan penggu
    `http://localhost/eventify_project/beranda.php`
 
 ## Demo Account
-Admin:
-- Email: admin@eventify.com
-- Password: admin123
-
 User:
 - Email: nazwa@gmail.com
 - Password: 123456
@@ -38,3 +34,4 @@ Tabel utama: `events`, `users`, `saved_events`
 
 ## Author
 Nazwa Febriyanti
+
